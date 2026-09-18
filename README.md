@@ -1,5 +1,10 @@
 # 👨‍💻 Stavan (@steve25060)
 
+<!-- Typing Animated Banner -->
+<a href="https://github.com/steve25060">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&multiline=false&width=600&height=45&lines=Hi%2C+I'm+Stavan+%F0%9F%91%8B;Cybersecurity+%26+Software+Engineer;Building+Resilient+AI+Systems;Active+Open-Source+Contributor" alt="Typing SVG" />
+</a>
+
 > **Software Engineer • Cybersecurity & DevSecOps • Resilient AI Architectures**  
 > *Engineering robust distributed systems, automated vulnerability detection pipelines, and high-performance reverse proxies.*
 
