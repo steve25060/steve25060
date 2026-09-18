@@ -23,13 +23,13 @@ name:        Stavan
 handle:      @steve25060
 domain:      Computer Engineering & Cybersecurity
 focus:       Vulnerability Mitigation, AI Model Routing, Defense-in-Depth Systems
-status:      Active Open-Source Contributor (LibreChat PR #14006 & freeCodeCamp)
+status:      Merged Open-Source Contributor (OmniRoute PR #14006 & freeCodeCamp)
 ```
 
 - 🛡️ **Cybersecurity & Defense**: Hands-on experience in vulnerability auditing, OWASP Top 10 mitigation, token-based authentication (JWT/RBAC), and threat modeling.
 - ⚙️ **Systems & AI Tooling**: Actively architecting reverse proxies and local LLM routing layers (**OmniRoute**) with zero-latency multi-tier provider failover.
 - 🚀 **Open-Source Contributions**:
-  - **[LibreChat PR #14006](https://github.com/danny-avila/LibreChat/pull/14006)**: Integrated OmniRoute MITM provider bridge & multi-tier model routing.
+  - **[OmniRoute PR #14006 (Merged)](https://github.com/diegosouzapw/OmniRoute/pull/14006)**: Architected dynamic Antigravity catalog injection, zero-quota-leakage MITM bridge proxy, and upstream model self-healing.
   - **freeCodeCamp**: Contributed to full-stack server configurations, API routing, and developer challenges.
 - 💻 **Engineering Disciplines**: Dedicated to type-safe code, defensive error handling, automated verification, and clean, minimal dependencies.
 
@@ -50,7 +50,7 @@ status:      Active Open-Source Contributor (LibreChat PR #14006 & freeCodeCamp)
 
 | Project / Repository | Focus / Status | Description | Tech Stack |
 | :--- | :---: | :--- | :--- |
-| **[OmniRoute](https://github.com/steve25060/OmniRoute)** | `Active Contribution` | High-throughput AI model router & MITM bridge. Authored **[LibreChat PR #14006](https://github.com/danny-avila/LibreChat/pull/14006)** connecting local harnesses to multi-tier provider pools. | `TypeScript`, `Node.js`, `Express`, `Systemd` |
+| **[OmniRoute](https://github.com/steve25060/OmniRoute)** | `Merged Contributor` | High-throughput AI model gateway & MITM bridge. Authored **[PR #14006 (Merged)](https://github.com/diegosouzapw/OmniRoute/pull/14006)** implementing Antigravity dynamic catalog injection and zero-quota proxy routing. | `TypeScript`, `Node.js`, `Express`, `Systemd` |
 | **[SecureLens](https://github.com/steve25060/SecureLensUpdated6)** | `Lead Engineer` | Automated web security auditor and vulnerability scanner generating actionable severity reports and remediation blueprints. | `Python`, `HTML5/CSS3`, `Security Tools` |
 | **[SecureSaathi](https://github.com/steve25060/SecureSaathi)** | `Lead Engineer` | AI-assisted cybersecurity assistant providing contextual defensive recommendations, incident triage, and hardening guidance. | `JavaScript`, `Full-Stack`, `AI Integration` |
 | **[Snake MCQ](https://github.com/steve25060/snakefinal)** | `Author` | Gamified interactive quiz engine transforming technical knowledge assessment into an engaging arcade experience. | `HTML5 Canvas`, `JavaScript`, `CSS3` |
