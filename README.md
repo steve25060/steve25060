@@ -11,6 +11,7 @@
 [![Status: Available](https://img.shields.io/badge/Status-Available%20for%20Opportunities-34D399?style=flat-square&logo=statuspage&logoColor=white)](https://github.com/steve25060)
 [![Email](https://img.shields.io/badge/Email-stavan794%40gmail.com-38BDF8?style=flat-square&logo=gmail&logoColor=white)](mailto:stavan794@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-steve25060-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/steve25060)
+[![Profile Views](https://komarev.com/ghpvc/?username=steve25060&label=Profile%20Views&color=38BDF8&style=flat-square)](https://github.com/steve25060)
 
 ---
 
@@ -22,12 +23,14 @@ name:        Stavan
 handle:      @steve25060
 domain:      Computer Engineering & Cybersecurity
 focus:       Vulnerability Mitigation, AI Model Routing, Defense-in-Depth Systems
-status:      Active Open-Source Contributor (LibreChat PR #14006)
+status:      Active Open-Source Contributor (LibreChat PR #14006 & freeCodeCamp)
 ```
 
 - 🛡️ **Cybersecurity & Defense**: Hands-on experience in vulnerability auditing, OWASP Top 10 mitigation, token-based authentication (JWT/RBAC), and threat modeling.
 - ⚙️ **Systems & AI Tooling**: Actively architecting reverse proxies and local LLM routing layers (**OmniRoute**) with zero-latency multi-tier provider failover.
-- 🚀 **Active Contribution**: Contributor to **[LibreChat PR #14006](https://github.com/danny-avila/LibreChat/pull/14006)** (OmniRoute MITM provider bridge & AI model routing integration).
+- 🚀 **Open-Source Contributions**:
+  - **[LibreChat PR #14006](https://github.com/danny-avila/LibreChat/pull/14006)**: Integrated OmniRoute MITM provider bridge & multi-tier model routing.
+  - **freeCodeCamp**: Contributed to full-stack server configurations, API routing, and developer challenges.
 - 💻 **Engineering Disciplines**: Dedicated to type-safe code, defensive error handling, automated verification, and clean, minimal dependencies.
 
 ---
@@ -48,9 +51,10 @@ status:      Active Open-Source Contributor (LibreChat PR #14006)
 | Project / Repository | Focus / Status | Description | Tech Stack |
 | :--- | :---: | :--- | :--- |
 | **[OmniRoute](https://github.com/steve25060/OmniRoute)** | `Active Contribution` | High-throughput AI model router & MITM bridge. Authored **[LibreChat PR #14006](https://github.com/danny-avila/LibreChat/pull/14006)** connecting local harnesses to multi-tier provider pools. | `TypeScript`, `Node.js`, `Express`, `Systemd` |
-| **[SecureLens](https://github.com/steve25060/SecureLensUpdated3)** | `Lead Engineer` | Automated web security auditor and vulnerability scanner generating actionable severity reports and remediation blueprints. | `Python`, `HTML5/CSS3`, `Security Tools` |
+| **[SecureLens](https://github.com/steve25060/SecureLensUpdated6)** | `Lead Engineer` | Automated web security auditor and vulnerability scanner generating actionable severity reports and remediation blueprints. | `Python`, `HTML5/CSS3`, `Security Tools` |
 | **[SecureSaathi](https://github.com/steve25060/SecureSaathi)** | `Lead Engineer` | AI-assisted cybersecurity assistant providing contextual defensive recommendations, incident triage, and hardening guidance. | `JavaScript`, `Full-Stack`, `AI Integration` |
 | **[Snake MCQ](https://github.com/steve25060/snakefinal)** | `Author` | Gamified interactive quiz engine transforming technical knowledge assessment into an engaging arcade experience. | `HTML5 Canvas`, `JavaScript`, `CSS3` |
+| **[CyberGuard](https://github.com/steve25060/cyberguard-website)** | `Lead Engineer` | Modern developer security portal and interface for threat monitoring and posture visibility. | `React`, `HTML/CSS`, `JavaScript` |
 
 ---
 
@@ -61,6 +65,7 @@ Feel free to reach out for software engineering roles, cybersecurity collaborati
 - **Email**: [stavan794@gmail.com](mailto:stavan794@gmail.com)
 - **GitHub**: [@steve25060](https://github.com/steve25060)
 - **Location**: India (IST / UTC+5:30)
+- **Resume / CV**: *Available upon request via email*
 
 [![Direct Email](https://img.shields.io/badge/Email-stavan794%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stavan794@gmail.com)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-steve25060-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steve25060)
